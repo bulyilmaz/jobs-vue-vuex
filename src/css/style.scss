@@ -1,0 +1,19 @@
+$btnBgColor: #912da2;
+$btnTextColor: #fff;
+.btn {
+  background-color: $btnBgColor;
+  &, &:hover {
+    color: $btnTextColor;
+  }
+}
+.navbar {
+  margin-bottom: 5rem;
+}
+.list {
+  .card {
+    margin-bottom: 1rem;
+  }
+  .card-body {
+    cursor: pointer;
+  }
+}

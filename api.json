@@ -1,0 +1,112 @@
+{
+  "jobs": [
+    {
+      "id": "199A9ED66BFE4CF593DBDF5402F1702A",
+      "jobId": "199A9ED66BFE4CF593DBDF5402F1702A",
+      "positionName": "Jandarma Bölge Komutanı",
+      "companyName": "Vosyoyvsyvosyv",
+      "durationDay": 0,
+      "durationDayText": "Taze çıktı!",
+      "imageUrl": "https://localhost/bluecollar/company/job/Default/6.jpg",
+      "distance":"8,53 km yakınında",
+      "countryCode": "TR",
+      "countryName": "Turkey",
+      "cityName": "İstanbul",
+      "townName": "Ümraniye",
+      "address": "Saray Mahallesi Site Yolu Sokak No:7 34768 Ümraniye/İstanbul Turkey",
+      "postalCode": 34768,
+      "hasLatitude": true,
+      "hasLongitude": true,
+      "latitude": 41.0266502,
+      "longitude": 29.1157803,
+      "description": "Nam aliquet odio ex, et feugiat urna dictum ut.",
+      "status": 1,
+      "contactPhone": {
+        "countryCallingCode": "+90",
+        "areaCode": "879",
+        "number": "9797979"
+      }
+    },
+    {
+      "id": "C71CD1954BA149BCAF42B25F775EA4FB",
+      "jobId": "C71CD1954BA149BCAF42B25F775EA4FB",
+      "positionName": "Gerber Operatörü",
+      "companyName": "Testoğlu Lahmacun Pide Ve Kebap",
+      "durationDay": 0,
+      "durationDayText": "Taze çıktı!",
+      "imageUrl":"http://localhost/bluecollar/Company/Job/000/000/000/avatar/13920170713010155805.jpg",
+      "distance":"15,24 km yakınında",
+      "countryCode": "TR",
+      "countryName": "Turkey",
+      "cityName": "İstanbul",
+      "townName": "Çengelköy Mahallesi",
+      "address": "Çengelköy Mahallesi Lale Sokak No:23 34763 Üsküdar/İstanbul Turkey",
+      "postalCode": 34763,
+      "hasLatitude": true,
+      "hasLongitude": true,
+      "latitude": 41.050968170166023,
+      "longitude": 29.062856674194339,
+      "description": "Duis ac velit finibus, vestibulum metus sed, posuere justo.",
+      "status": 1,
+      "contactPhone": {
+        "countryCallingCode": "+90",
+        "areaCode": "879",
+        "number": "9797979"
+      }
+    },
+    {
+      "id": "D71CD1954BA169BCAF42E25F775EA4FB",
+      "jobId": "D71CD1954BA169BCAF42E25F775EA4FB",
+      "positionName": "Şoför / Sürücü",
+      "companyName": "Euroserve Hizmet ve İşletmecilik A.Ş.",
+      "durationDay": 0,
+      "durationDayText": "Taze çıktı!",
+      "imageUrl":"http://localhost/bluecollar/Company/Job/000/000/000/avatar/13920170713010155805.jpg",
+      "distance":"15,24 km yakınında",
+      "countryCode": "TR",
+      "countryName": "Turkey",
+      "cityName": "İzmir",
+      "townName": "Ferah Mahallesi",
+      "address": "Ferah Mahallesi Lale Sokak No:23 35743 Karşıyaka/İzmir Turkey",
+      "postalCode": 34763,
+      "hasLatitude": true,
+      "hasLongitude": true,
+      "latitude": 41.050968170166023,
+      "longitude": 29.062856674194339,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "status": 1,
+      "contactPhone": {
+        "countryCallingCode": "+90",
+        "areaCode": "879",
+        "number": "9797979"
+      }
+    },
+    {
+      "id": "R71CD1954TA169BCAF42E25F785EA4FB",
+      "jobId": "R71CD1954TA169BCAF42E25F785EA4FB",
+      "positionName": "Öğretmen",
+      "companyName": "Kariyerim Özel Öğretim Kursu",
+      "durationDay": 0,
+      "durationDayText": "Taze çıktı!",
+      "imageUrl":"http://localhost/bluecollar/Company/Job/000/000/000/avatar/13920170713010155805.jpg",
+      "distance":"15,24 km yakınında",
+      "countryCode": "TR",
+      "countryName": "Turkey",
+      "cityName": "İzmir",
+      "townName": "Ulus Mahallesi",
+      "address": "Ulus Mahallesi Lale Sokak No:23 35743 Konak/İzmir Turkey",
+      "postalCode": 34763,
+      "hasLatitude": true,
+      "hasLongitude": true,
+      "latitude": 41.050968170166023,
+      "longitude": 29.062856674194339,
+      "description": "Quisque placerat tortor nec elit consequat iaculis a non risus.",
+      "status": 1,
+      "contactPhone": {
+        "countryCallingCode": "+90",
+        "areaCode": "879",
+        "number": "9797979"
+      }
+    }
+  ]
+}
